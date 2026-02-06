@@ -25,3 +25,9 @@
 ![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-blue?style=for-the-badge&logo=plotly)
 ![ScikitLearn](https://img.shields.io/badge/ScikitLearn-orange?style=for-the-badge&logo=scikit-learn)
+
+## 📊 GitHub Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Themiris&theme=tokyo-night)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Themiris&show_icons=true&theme=tokyonight)
