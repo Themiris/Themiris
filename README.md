@@ -2,9 +2,7 @@
 
 ### 🚀 Generative AI Enthusiast | ML Builder | Third Year @ IIIT Naya Raipur
 
-<div align="center">
-  <img src and="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Building+with+Generative+AI;Machine+Learning+Explorer;FastAPI+%7C+Data+Science;Always+Learning+New+Things" />
-</div>
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Generative+AI" alt="Typing SVG" /> </div>
 
 ---
 
