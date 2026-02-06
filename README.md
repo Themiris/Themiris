@@ -1,37 +1,65 @@
-# Naman Garg 
+# 👋 Hi, I'm Naman Garg
 
-### Gen AI Enthusiast | Third Year Student 
+### 🚀 Generative AI Enthusiast | ML Builder | Third Year @ IIIT Naya Raipur
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Generative+AI" alt="Typing SVG" />
+  <img src and="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Building+with+Generative+AI;Machine+Learning+Explorer;FastAPI+%7C+Data+Science;Always+Learning+New+Things" />
 </div>
-
-## 🚀 About Me
-
-- 🎓 Third Year Student at IIIT Naya Raipur
-- 🔬 Working on Machine Learning & Data Analysis projects
-- 📚 Learning Generative AI and ML 
 
 ---
 
-## 💻 Technical Skills
+## 🧠 About Me
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+- 🎓 Third Year Student at **IIIT Naya Raipur**
+- 🤖 Exploring **Generative AI, LLMs, and Machine Learning**
+- 📊 Building real-world **Data Science + AI projects**
+- ⚡ Interested in **AI products, automation, and intelligent systems**
+- 📚 Currently learning:
+  - Generative AI
+  - Advanced ML
+  - FastAPI + AI integration
 
-### Frameworks & Libraries
-![Streamlit](https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit)
-![FastAPI](https://img.shields.io/badge/FastAPI-green?style=for-the-badge&logo=fastapi)
-![Pandas](https://img.shields.io/badge/Pandas-purple?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-blue?style=for-the-badge&logo=plotly)
-![ScikitLearn](https://img.shields.io/badge/ScikitLearn-orange?style=for-the-badge&logo=scikit-learn)
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
+![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql)
+
+### 📦 Libraries & Frameworks
+![FastAPI](https://img.shields.io/badge/FastAPI-065F46?style=for-the-badge&logo=fastapi)
+![Streamlit](https://img.shields.io/badge/Streamlit-7F1D1D?style=for-the-badge&logo=streamlit)
+![Pandas](https://img.shields.io/badge/Pandas-312E81?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-0C4A6E?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-1F2937?style=for-the-badge)
+![ScikitLearn](https://img.shields.io/badge/Scikit--Learn-9A3412?style=for-the-badge&logo=scikit-learn)
+
+---
 
 ## 📊 GitHub Activity
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Themiris&theme=tokyo-night)
 
+---
+
+## 🎯 Current Focus
+
+- 🔬 Building **GenAI projects**
+- 🧩 Learning **LLM frameworks**
+- 🏗️ Creating **end-to-end ML apps**
+- 📈 Improving problem-solving & DSA
+
+---
+
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/naman-garg-a1b071361) [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Themiris) [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:namaniiitnr@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/naman-garg-a1b071361)
+[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github)](https://github.com/Themiris)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:namaniiitnr@gmail.com)
+
+---
+
+## ⚡ Fun Fact
+
+> I love turning ideas into AI-powered products.
