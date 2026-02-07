@@ -37,7 +37,7 @@
 
 ## 📊 GitHub Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Themiris&theme=tokyo-night)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NamanGarg-01&theme=tokyo-night)
 
 ---
 
